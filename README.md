@@ -1,1 +1,1 @@
-# cloredRating
+# coloredRating
